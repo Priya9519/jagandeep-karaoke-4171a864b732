@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Vclub Karaoke</string>
+
+    <string name="access_token">accessToken</string>
+    <string name="success">success</string>
+    <string name="Success">Success</string>
+    <string name="unauthorised">unauth</string>
+    <string name="something_wrong">Something went wrong ! Please try again.</string>
+
+    <string name="vod_failure">No Response!</string>
+    <string name="quit_message">Do you want close this app ?</string>
+    <string name="authentication_failed">Unable to login! Please check your credential.</string>
+
+
+    <string name="empty_stream_error">No stream found!</string>
+
+    <string name="Authorization">Authorization</string>
+    <string name="TokenType">token_type</string>
+    <string name="AccessTokenWithUnderscore">access_token</string>
+</resources>
